@@ -500,7 +500,7 @@ aside {
         display: flex;
         flex-direction: row;
         justify-content: center;
-        min-width: 458px;
+        min-width: 548px;
         height: 400px;
     }
 
