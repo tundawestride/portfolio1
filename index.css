@@ -422,7 +422,7 @@ aside {
     }
 
     .header-float {
-        min-width: 568px;
+        min-width: 548px;
     }
 
     #p-section {
@@ -500,7 +500,7 @@ aside {
         display: flex;
         flex-direction: row;
         justify-content: center;
-        min-width: 600px;
+        min-width: 458px;
         height: 400px;
     }
 
