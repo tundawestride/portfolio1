@@ -564,13 +564,17 @@ aside {
     }
 
     .header-name {
-        font-size: 120%;
-        height: 35%;
-        width: 70%;
+        font-size: 90%;
+        height: 5%;
+        width: 20%;
         font-weight: bolder;
         background-color: transparent;
         color: #972A30;
         text-shadow: rgb(255, 255, 255) 1px 1px 1.5px;
+        position: absolute;
+        left: 105%;
+        width: 140px;
+        text-align: center;
     }
 
     .project-header-text {
@@ -613,15 +617,23 @@ aside {
 
     .header-photo img {
         position: absolute;
-        top: 10%;
+        top: 12%;
         left: 110%;
         width: 140px;
 
     }
 
+    .header-content {
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        height: auto;
+    }
+
     .more-about-me-btn {
-        top: 66%;
-        left: -55%;
+        top: 56%;
+        left: 155%;
         font-size: 9px;
         height: 25px;
         width: 100px;
@@ -655,10 +667,15 @@ aside {
     }
 
     .header-des {
-        font-size: 9px;
+        font-size: 10.5px;
         margin-top: 6.5px;
         border-left: none;
-        justify-content: end;
+        text-align: end;
+        position: absolute;
+        left: 25%;
+        width: 140px;
+        text-align: center;
+        top: 42%;
     }
 
     .header-hello {
