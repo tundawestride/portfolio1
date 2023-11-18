@@ -267,7 +267,6 @@ aside {
 .listser {
     align-items: center;
     justify-content: center;
-    grid-area: listser;
     margin-left: 25px;
 }
 
@@ -315,8 +314,8 @@ aside {
     color: white;
     width: auto;
     height: auto;
-    margin: 30px 30px;
-    padding: 20px 20px;
+    margin: 10px 10px;
+    padding: 25px 5px;
     justify-content: center;
 }
 
@@ -523,7 +522,7 @@ aside {
     }
 
     .header-name {
-        font-size: 210%;
+        font-size: 180%;
     }
 
     .header-title {
@@ -582,7 +581,7 @@ aside {
     }
 
     #p-section {
-        height: 780px;
+        height: 90%;
     }
 
     #headder-block {
