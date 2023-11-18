@@ -564,7 +564,7 @@ aside {
     }
 
     .header-name {
-        font-size: 90%;
+        font-size: 75%;
         height: 5%;
         width: 20%;
         font-weight: bolder;
@@ -572,7 +572,7 @@ aside {
         color: #972A30;
         text-shadow: rgb(255, 255, 255) 1px 1px 1.5px;
         position: absolute;
-        left: 105%;
+        left: 95%;
         width: 140px;
         text-align: center;
     }
@@ -618,13 +618,13 @@ aside {
     .header-photo img {
         position: absolute;
         top: 12%;
-        left: 110%;
+        left: 117%;
         width: 140px;
 
     }
 
     .header-content {
-        width: 50%;
+        width: 35%;
         display: flex;
         flex-direction: column;
         flex-wrap: wrap;
@@ -633,7 +633,7 @@ aside {
 
     .more-about-me-btn {
         top: 56%;
-        left: 155%;
+        left: 170%;
         font-size: 9px;
         height: 25px;
         width: 100px;
@@ -688,7 +688,7 @@ aside {
 
     .hire-me button {
         width: 150px;
-        height: 50px;
+        height: 45px;
     }
 
     .refer-header {
