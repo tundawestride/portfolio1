@@ -420,9 +420,7 @@ aside {
         max-width: 238px;
     }
 
-    .header-float {
-        min-width: 548px;
-    }
+    .header-float {}
 
     #p-section {
         height: 761px;
@@ -499,7 +497,7 @@ aside {
         display: flex;
         flex-direction: row;
         justify-content: center;
-        min-width: 548px;
+
         height: 400px;
     }
 
@@ -566,9 +564,9 @@ aside {
     }
 
     .header-name {
-        font-size: 160%;
+        font-size: 120%;
         height: 35%;
-        width: auto;
+        width: 70%;
         font-weight: bolder;
         background-color: transparent;
         color: #972A30;
@@ -585,14 +583,16 @@ aside {
     }
 
     #headder-block {
-        height: 380px;
-        width: 480px;
+        height: 340px;
+        width: 280px;
         position: relative;
     }
 
     .header-float {
         margin-left: 25px;
         margin-right: 25px;
+        width: 70%;
+
     }
 
     .header-title {
@@ -602,17 +602,19 @@ aside {
     }
 
     .footer-content {
+
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
         background-color: transparent;
         color: white;
+        width: 450px;
         height: auto;
     }
 
     .header-photo img {
         position: absolute;
-        top: 25%;
-        left: -14%;
+        top: 10%;
+        left: 110%;
         width: 140px;
 
     }
@@ -664,6 +666,7 @@ aside {
         padding-left: 50px;
         padding-top: 1px;
         font-size: 39px;
+        display: none;
     }
 
     .hire-me button {
